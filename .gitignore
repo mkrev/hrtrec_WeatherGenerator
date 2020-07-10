@@ -1,0 +1,10 @@
+/.idea
+/vendor
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+example_homepage.txt
+npm-debug.log
+yarn-error.log
+phpunit.dusk.xml
+*.code-workspace
